@@ -1,11 +1,11 @@
 {
-  "name": "atlas-datahub-mcp",
+  "name": "orion-vision-mcp",
   "version": "1.0.0",
   "description": "MCP server for Azure Form Recognizer / Document Intelligence integration",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "atlas-datahub-mcp": "dist/index.js"
+    "orion-vision-mcp": "dist/index.js"
   },
   "files": [
     "dist",
