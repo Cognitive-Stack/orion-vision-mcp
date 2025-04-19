@@ -1,4 +1,5 @@
-import { z } from "zod";
+'use strict';
+
 import { analyzeDocument, extractFormData } from "../tools/form-recognizer";
 import { ToolConfig } from "../types/tools";
 import { DocumentSchema, FormDataSchema } from "../types/tools";
